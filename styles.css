@@ -1,0 +1,31 @@
+html {
+    background-color: #ffbbe3;
+}
+
+a href {
+    width: 100px;
+}
+
+body {
+    text-align: center;
+}
+
+.important {
+    color: #ff00aa;
+}
+
+.fun {
+    color: green;
+}
+
+.red {
+    color: #cc0000;
+}
+
+h1 {
+    font-family: 'Henny Penny', cursive;
+}
+
+h3 {
+    font-family: 'Fruktur', cursive;
+}
